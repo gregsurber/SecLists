@@ -11,3 +11,5 @@ secret-key
 aeskey
 passphrase
 wombat
+user
+pass
